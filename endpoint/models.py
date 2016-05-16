@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 from django.db import models
 
-# Create your models here.
+# db model returns highest count latlng pairs first
 
 
 class Coordinates(models.Model):
