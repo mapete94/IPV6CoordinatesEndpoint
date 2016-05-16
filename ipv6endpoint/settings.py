@@ -25,7 +25,7 @@ SECRET_KEY = 'k&u@pyx#vo4ejojp$iz8@q44q28pipe6(i+6s*mo6=_2!r0w($'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.michaelandrewpeterson.com', '127.0.0.1', '152.7.74.162']
+ALLOWED_HOSTS = ['michaelandrewpeterson.com', 'wwww.michaelandrewpeterson.com', '127.0.0.1', '75.190.251.91']
 
 
 # Application definition
